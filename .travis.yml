@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+- 2.2.1
+notifications:
+email:abdallah.najeh@gmail.com
+recipients:
+- votre_adresse_de_courriel
+on_success: always
+on_failure: always
