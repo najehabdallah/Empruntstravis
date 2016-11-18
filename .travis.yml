@@ -2,8 +2,8 @@ language: ruby
 rvm:
 - 2.2.1
 notifications:
-email:abdallah.najeh@gmail.com
+email:
 recipients:
-- abdallah.najeh@gmail.com
+abdallah.najeh@gmail.com
 on_success: always
 on_failure: always

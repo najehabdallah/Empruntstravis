@@ -4,6 +4,6 @@ rvm:
 notifications:
 email:abdallah.najeh@gmail.com
 recipients:
-- votre_adresse_de_courriel
+- abdallah.najeh@gmail.com
 on_success: always
 on_failure: always
